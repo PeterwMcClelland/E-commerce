@@ -10,6 +10,8 @@ Sequelized,
 Express,
 dotenv.
 
+You will also need to create a .env to run the app.
+
 [![Screen-Shot-2022-06-21-at-5-57-01-PM.png](https://i.postimg.cc/t4GJXmV9/Screen-Shot-2022-06-21-at-5-57-01-PM.png)](https://postimg.cc/GHzdKKQf)
 
 # Repo and Video
